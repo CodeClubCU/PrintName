@@ -9,7 +9,7 @@ STEPS TO MAKE YOUR FIRST PULL REQUEST:
 5) Add and Commit the changes to Your Local Repository and git push to your remote Repository
 6) Send A Pull Request to CodeClubCU/PrintName
 
-
+[Please make sure there are no extra files(like .exe, .class generated while testing) when you make the commit]
 
 ## CODECLUB CU
 
