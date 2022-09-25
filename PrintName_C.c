@@ -13,7 +13,7 @@ AND COMMIT THE CHANGES USING GIT TO YOUR REPOSITORY AND
 THEN SEND A PULL REQUEST
 AND GET YOUR FIRST PULL REQUEST MERGED
 */
-    char NameArray[1][100] = {"CodeClub CU"};
+    char NameArray[2][100] = {"CodeClub CU", "Ankan Halder"};
     int size = *(&NameArray + 1) - NameArray;
     for(int i = 0; i < size; i++)
     {
