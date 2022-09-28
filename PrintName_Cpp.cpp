@@ -15,7 +15,7 @@ AND COMMIT THE CHANGES USING GIT TO YOUR REPOSITORY AND
 THEN SEND A PULL REQUEST
 AND GET YOUR FIRST PULL REQUEST MERGED
 */
-    vector<string> NameArray = {"CodeClub CU","Arkadipta Paul"};
+    vector<string> NameArray = {"CodeClub CU","Arkadipta Paul", "Amit Eshore"};
     int j = 1;
     for (auto i = NameArray.begin(); i != NameArray.end(); ++i)
     {
