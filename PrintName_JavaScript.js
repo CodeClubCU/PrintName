@@ -10,7 +10,7 @@ console.log("List of Members/Contributers:\n")
 //AND GET YOUR FIRST PULL REQUEST MERGED
 
 
-let arr = ["CodeClub CU", "Amit Eshore","Jeremy Quihano"];
+let arr = ["CodeClub CU", "Amit Eshore","Jeremy Quihano", "Cesar Avina"];
 
 
 for(let i = 0; i < arr.length; i++){
