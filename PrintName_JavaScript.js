@@ -9,7 +9,7 @@ console.log("List of Members/Contributers:\n")
 //THEN SEND A PULL REQUEST
 //AND GET YOUR FIRST PULL REQUEST MERGED
 
-let arr = ["CodeClub CU"];
+let arr = ["CodeClub CU", "Shantanu raut"];
 
 for(let i = 0; i < arr.length; i++){
   console.log((i+1).toString() + ')',arr[i]);
