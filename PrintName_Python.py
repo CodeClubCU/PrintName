@@ -11,7 +11,7 @@ print("List of Members/Contributers:\n")
 #THEN SEND A PULL REQUEST
 #AND GET YOUR FIRST PULL REQUEST MERGED
 
-NameArray = ["CodeClub CU", "Ankan Halder","Gourav Kundu", "Amit Eshore", "Douwe"]
+NameArray = ["CodeClub CU", "Ankan Halder","Gourav Kundu", "Amit Eshore", "Douwe", "BuddhaHeadDev"]
 for i in range(len(NameArray)):
     print("%s)%s"%(i+1,NameArray[i]))
  
