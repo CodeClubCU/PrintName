@@ -9,7 +9,7 @@ public class PrintName_Java {
         // AND COMMIT THE CHANGES USING GIT TO YOUR REPOSITORY AND
         // THEN SEND A PULL REQUEST
         // AND GET YOUR FIRST PULL REQUEST MERGED
-        String[] NameArray = { "CodeClub CU", "Shashank Pandey", "Gourav Kundu" , "Amit Esohre"};
+        String[] NameArray = { "CodeClub CU", "Shashank Pandey", "Gourav Kundu" , "Amit Esohre", "Veronica Conesa"};
         for (int i = 0; i < NameArray.length; i++) {
             System.out.print((i + 1));
             System.out.println(") " + NameArray[i]);
